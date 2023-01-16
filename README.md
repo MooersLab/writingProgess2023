@@ -169,7 +169,7 @@ The result of doing so with an earlier version of the first three paragraphs of 
 Reload the webpage to clear the textarea of the old text and prepare it for new text.
 One advantage of the text area is that typos can be detected if you have grammar and spellchecker extensions added to your browser.
 
-Another solution is to use the [GhostText extension]() for the web browser and use your favorite powerful text editor (VSC, Emacs, Vim, NeoVim, SublimeText) to get the word count of the selected text.
+Another solution is to use the [GhostText extension](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) for the web browser and use your favorite powerful text editor (VSC, Emacs, Vim, NeoVim, SublimeText) to get the word count of the selected text.
 
 
 # Daily protocol for adding progress to a project in the writingProgress2022
@@ -283,5 +283,6 @@ The following protocol will conserve your investment as you move into the new ye
 
 - [The writer's law](https://github.com/MooersLab/thewriterslaw)
 - [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). LaTeX beginers can use this document easily on Overleaf without any configuration.
+- [Emacsconf 2023 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s)
 - [Writing Log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. It is vastly superior to markdown. It is best edited in Emacs (Sorry, Oveleaf cannot yet work with Org-mode), but VS Code has some support for org-mode files.
 
