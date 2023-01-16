@@ -283,6 +283,5 @@ The following protocol will conserve your investment as you move into the new ye
 
 - [The writer's law](https://github.com/MooersLab/thewriterslaw)
 - [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). LaTeX beginers can use this document easily on Overleaf without any configuration.
-- [Emacsconf 2023 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s)
 - [Writing Log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. It is vastly superior to markdown. It is best edited in Emacs (Sorry, Oveleaf cannot yet work with Org-mode), but VS Code has some support for org-mode files.
-
+- [Emacsconf 2023 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes demostrated of using Emacs to edit a document in Overleaf.
