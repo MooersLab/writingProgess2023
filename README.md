@@ -15,7 +15,53 @@ It should take no more than a minute a day to make the entries and to check on y
 <p align="center"><img src="images/Jan2022progr.png" style="width: 90vw; min-width: 330px;"></p>
 
 
-### Details
+## What is writing project?
+
+Simple: Any writing task that cannot be completed in one sitting.
+
+### Examples of writing projects:
+
+1. Research papers
+2. Grant applications
+3. Grant progress reports
+4. Grant reviews
+5. Some meeting abstracts
+6. Some manuscript reviews
+7. Annual progress report for department chair
+8. Handbooks for lab members
+9. Book chapters
+10. Books
+11. Lecture notes
+12. Promotion dossier
+13. Software documetation
+14. Some laboratory protocols
+
+### Unlikely a writing project
+
+1. Reviews of meeting abstracts
+2. Most e-mails 
+
+## The problem being address here
+
+Academics have to complete many writing projects during the course of a year.
+Most academics do not have the luxury of working on only one writing project per day.
+Many have to make progress on two or more projects per day.
+The management of multiple writing projects is the largest unsolved in problem academic writing.
+No one has an answer that is an universal.
+The above a workbooks is tool that address this problem.
+Like any tool, you can use it well or poorly.
+
+## Disclarimer
+
+The above tool tracks your effort.
+It does not optimize the priorizatoin of your writing projects, although it can inform the optimization.
+
+The above tool will also not make you write a lot.
+You can only do that by setting up a writing schedule and sticking with it.
+See [the writer's creed](https://github.com/MooersLab/thewriterslaw) for some guidelines on makeing and following a schedule.
+
+
+## Details
 
 My writing projects are generally too large to finish in a day, week, or month, let alone a year. 
 I find that tracking my writing progress helps me to sustain my writing efforts. 
@@ -282,7 +328,7 @@ The following protocol will conserve your investment as you move into the new ye
 
 # Related links
 
-- [The writer's law](https://github.com/MooersLab/thewriterslaw)
+- [The writer's creed](https://github.com/MooersLab/thewriterslaw)
 - [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). LaTeX beginers can use this document easily on Overleaf without any configuration.
 - [Writing Log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. It is vastly superior to markdown. It is best edited in Emacs (Sorry, Oveleaf cannot yet work with Org-mode), but VS Code has some support for org-mode files.
 - [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes demostration of using Emacs to edit a document in Overleaf.
