@@ -14,6 +14,25 @@ It should take no more than a minute a day to make the entries and to check on y
 
 <p align="center"><img src="images/Jan2022progr.png" style="width: 90vw; min-width: 330px;"></p>
 
+## The problem being address here
+
+Academics have to complete many writing projects during the course of a year.
+Most academics do not have the luxury of working on only one writing project per day.
+Many have to make progress on two or more projects per day.
+The management of multiple writing projects is the largest unsolved in problem academic writing.
+No one has an answer that is an universal.
+The above a workbook is tool that can be used to address this problem.
+Like any tool, you can use it well or poorly.
+
+## Disclarimer
+
+The above tool tracks your effort.
+It does not optimize the priorizatoin of your writing projects, although it can inform the optimization.
+
+The above tool will also not make you write a lot.
+You can only do that by setting up a writing schedule and sticking with it.
+See [the writer's creed](https://github.com/MooersLab/thewriterslaw) for some guidelines on making and following a schedule.
+
 
 ## What is writing project?
 
@@ -41,24 +60,13 @@ Simple: Any writing task that cannot be completed in one sitting.
 1. Reviews of meeting abstracts
 2. Most e-mails 
 
-## The problem being address here
+### Why only ten writing projects?
 
-Academics have to complete many writing projects during the course of a year.
-Most academics do not have the luxury of working on only one writing project per day.
-Many have to make progress on two or more projects per day.
-The management of multiple writing projects is the largest unsolved in problem academic writing.
-No one has an answer that is an universal.
-The above a workbooks is tool that address this problem.
-Like any tool, you can use it well or poorly.
+Most academics work on more than ten writing projects in a year.
+However, manually updating the blank sheets in the above workbook at the start of each new year is time-consuming and tedious.
+New project sheets can be added by dupicating the an existing project sheet and renaming it. 
 
-## Disclarimer
 
-The above tool tracks your effort.
-It does not optimize the priorizatoin of your writing projects, although it can inform the optimization.
-
-The above tool will also not make you write a lot.
-You can only do that by setting up a writing schedule and sticking with it.
-See [the writer's creed](https://github.com/MooersLab/thewriterslaw) for some guidelines on makeing and following a schedule.
 
 
 ## Details
