@@ -325,7 +325,7 @@ The following protocol will conserve your investment as you move into the new ye
 4. Change the year in cells A2:A366.
 5. Update the day of the week in Column D.
 6. Delete the values in the cells I2 to X366, where X is the rightmost column with minute data.
-7. Update the year in the titles of the bar plots in the right margin.
+7. Update the year in the titles of the bar plots next to the right margin.
 8. Select the word.day sheet and repeat steps 3-7.
 9. Select the first project and repeat steps 4 and 5 and delete any values in columns F, G, and H.
 
