@@ -14,7 +14,7 @@ It should take no more than a minute a day to make the entries and to check on y
 
 <p align="center"><img src="images/Jan2022progr.png" style="width: 90vw; min-width: 330px;"></p>
 
-## The problem being address here
+## The problem being addressed here
 
 Academics have to complete many writing projects during the course of a year.
 Most academics do not have the luxury of working on only one writing project per day.
