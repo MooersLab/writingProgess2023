@@ -6,7 +6,7 @@
 ## Synopsis
 The attached Open Office Document (WritingProgress2023tenProjectsTest.ods) can be imported into Google Sheets, where it was created. 
 You can also open this document in Libre Office or Open Office for offline use. 
-The Excel version WritingProgress2023tenProjectsTest.xlsx can be run in MicroSoft Excel.
+The Excel version WritingProgress2023tenProjectsTest.xlsx can be run in Microsoft Excel.
 
 After spending 20-60 minutes customizing the workbook for your current and planned writing projects, you should be set for tracking your writing progress for 2023. 
 It should take no more than a minute a day to make the entries and to check on your monthly progress displayed as bar plots, as shown below. 
@@ -19,22 +19,23 @@ It should take no more than a minute a day to make the entries and to check on y
 Academics have to complete many writing projects during the course of a year.
 Most academics do not have the luxury of working on only one writing project per day.
 Many have to make progress on two or more projects per day.
-The management of multiple writing projects is the largest unsolved in problem academic writing.
-No one has an answer that is an universal.
+The management of multiple writing projects is the largest unsolved problem academic writing and time management.
+No one has a universal answer.
+Most books on academic writing actually skip over this gnarly issue.
 The above a workbook is tool that can be used to address this problem.
 Like any tool, you can use it well or poorly.
 
-## Disclarimer
+## Disclaimer
 
 The above tool tracks your effort.
-It does not optimize the priorizatoin of your writing projects, although it can inform the optimization.
+It does not optimize the prioritization of your writing projects, although it can inform that optimization.
 
-The above tool will also not make you write a lot.
+The above tool will not make you write a lot.
 You can only do that by setting up a writing schedule and sticking with it.
 See [the writer's creed](https://github.com/MooersLab/thewriterslaw) for some guidelines on making and following a schedule.
 
 
-## What is writing project?
+## What is a writing project?
 
 Simple: Any writing task that cannot be completed in one sitting.
 
@@ -52,7 +53,7 @@ Simple: Any writing task that cannot be completed in one sitting.
 10. Books
 11. Lecture notes
 12. Promotion dossier
-13. Software documetation
+13. Software documentation
 14. Some laboratory protocols
 
 ### Unlikely a writing project
@@ -60,13 +61,11 @@ Simple: Any writing task that cannot be completed in one sitting.
 1. Reviews of meeting abstracts
 2. Most e-mails 
 
-### Why only ten writing projects?
+### Why only ten writing projects in the above workbook?
 
 Most academics work on more than ten writing projects in a year.
 However, manually updating the blank sheets in the above workbook at the start of each new year is time-consuming and tedious.
-New project sheets can be added by dupicating the an existing project sheet and renaming it. 
-
-
+New project sheets can be added by duplicating an existing project sheet and renaming it. 
 
 
 ## Details
