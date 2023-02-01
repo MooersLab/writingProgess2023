@@ -225,7 +225,7 @@ One advantage of the text area is that typos can be detected if you have grammar
 Another solution is to use the [GhostText extension](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) for the web browser and use your favorite powerful text editor (VSC, Emacs, Vim, NeoVim, SublimeText) to get the word count of the selected text.
 
 
-# Daily protocol for adding progress to a project in the writingProgress2022
+# Daily protocol for adding progress to a project in the writingProgress2023
 
 Below is the daily protocol for adding minutes spent and words written to the WritingProgress2022 Google Workbook.
 The essential steps will become second nature with practice, but having a written protocol nearby can save time.
@@ -284,7 +284,7 @@ I also added links to related writing projects near the top of the writing log a
 10. **[optional]** Draft a list of alternate titles (avoid colons, limit to one line)
 11. **[optional]** Draft a list of keywords
 12. Paste the above newly generated text into wordCount.html.
-13. Add the project to your progress tracker: writingProgress2022.
+13. Add the project to your progress tracker: writingProgress2023.
          
        1. Duplicate a project sheet and rename it with the project number.
        2. Customize the parameters for the sheet: Title, directory name,  link to the Overleaf project, links to related overleaf projects. 
@@ -306,7 +306,7 @@ I also added links to related writing projects near the top of the writing log a
 
 After several hundred calendars have accummulated, Google Calendar becomes very slow.
 I migrated to using a Google Sheet and project IDs to track my time in April 2022.
-I am still using this approach as of Jnaury 2023.
+I am still using this approach as of January 2023.
 
 The above optional steps that involve generating text will customize the project.
 This customization will help to distinguish one project from related writing projects.
