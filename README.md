@@ -322,10 +322,10 @@ The following protocol will conserve your investment as you move into the new ye
 1. Open the workbook in Google Sheets.
 2. Under File, duplicate the workbook and rename it in the process.
 3. Select min.day sheet.
-4. Change the year in cells A2:A366.
+4. Change the year in cells A2:A366 (A2:A367 for leap years).
 5. Update the day of the week in Column D.
-6. Delete the values in the cells I2 to X366, where X is the rightmost column with minute data.
-7. Update the year in the titles of the bar plots next to the right margin.
+6. Delete the values in the cells H2 to X366, where X is the rightmost column with minute data.
+7. Update the year in the titles of the bar plots next to the right margin by clicking on each title and editing it.
 8. Select the word.day sheet and repeat steps 3-7.
 9. Select the first project and repeat steps 4 and 5 and delete any values in columns F, G, and H.
 
