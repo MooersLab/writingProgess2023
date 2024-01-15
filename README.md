@@ -339,12 +339,13 @@ You can extend the cells by another 365 rows.
 
 1. Select min.day sheet.
 2. Change the year in cells A368:A732.
-3. Extend the day of the week in Column D.
-4. Copy the plots month by month. Edit their titles.
-5. Edit the data ranges for each plot. Take care to select the correct data ranges.
-6. Update the year in the titles of the bar plots next to the right margin by clicking on each title and editing it.
-7. Select the word.day sheet and repeat steps 2-6.
-8. Select the first project and repeat steps 2 and 3.
+3. Extend the day of the week in Column D, cells D368:D732.
+5. Copy the plots month by month.
+6. Edit the titles of thje plots.
+7. Edit the data ranges for each plot. Take care to select the correct data ranges.
+8. Repeat steps 2-7 for word.day sheet.
+9. Edit columns A to D of the first project sheet.
+10. Copy A368:D732 from the first project sheet and paste in the remaining project sheets.
 
 
 
