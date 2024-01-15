@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=writingProgress2022&message=0.2&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=writingProgress2023&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # Workbook to track progress on writing projects with bar plots
