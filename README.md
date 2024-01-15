@@ -315,21 +315,36 @@ This customization is critical when you draft several similar writing projects i
 
 # Protocol for updating the workbook for the new year (20-30 minutes)
 
-Now that you have customized the workbook, you have made a significant investment.
-You have added columns for new projects and maybe deleted columns for closed projects.
-The following protocol will conserve your investment as you move into the new year.
+This protocol can be used to carry forward the project column labels but not the record of progress.
+See the protocol below to also do the latter.
 
 1. Open the workbook in Google Sheets.
 2. Under File, duplicate the workbook and rename it in the process.
 3. Select min.day sheet.
 4. Change the year in cells A2:A366 (A2:A367 for leap years).
 5. Update the day of the week in Column D.
-6. Delete the values in the cells H2 to X366, where X is the rightmost column with minute data.
+6. Delete the values in the cells H2 to X366, where X is the rightmost column with minute data. Delete the columns for archived projects.
 7. Update the year in the titles of the bar plots next to the right margin by clicking on each title and editing it.
 8. Select the word.day sheet and repeat steps 3-7.
 9. Select the first project and repeat steps 4 and 5 and delete any values in columns F, G, and H.
 
-**You are now ready for the new year!!!!** :)
+**You are now ready for the new year!!!!**
+
+
+# Protocol for appending the next year.
+
+The following protocol will conserve your investment as you move into the new year.
+You can extend the cells by another 365 rows.
+
+
+1. Select min.day sheet.
+2. Change the year in cells A368:A732.
+3. Extend the day of the week in Column D.
+4. Copy the plots month by month. Edit their titles.
+5. Edit the data ranges for each plot. Take care to select the correct data ranges.
+6. Update the year in the titles of the bar plots next to the right margin by clicking on each title and editing it.
+7. Select the word.day sheet and repeat steps 2-6.
+8. Select the first project and repeat steps 2 and 3.
 
 
 
