@@ -306,7 +306,7 @@ I also added links to related writing projects near the top of the writing log a
 
 After several hundred calendars have accummulated, Google Calendar becomes very slow.
 I migrated to using a Google Sheet and project IDs to track my time in April 2022.
-I am still using this approach as of January 2023.
+I am still using this approach as of January 2024, although I migrated to using a sqlite database locally.
 
 The above optional steps that involve generating text will customize the project.
 This customization will help to distinguish one project from related writing projects.
